@@ -7,6 +7,8 @@
 直到9月初关键转折
 文件包括K词，与娜娜和杰尼的第一段聊天记录，fish全部的聊天记录
 https://github.com/yira0ooo0/paragraph-111
+
+
 对话添加了部分批注，号码和一些真实的名称都打了码，保护了点隐私。
 
 
@@ -15,6 +17,7 @@ https://github.com/yira0ooo0/paragraph-111
 <b>第2段</b>
 9月开始了3个月的“小黑屋”生涯 2013年12月底返回家中，
 最后一次见面次年2月 
+
 文件包括期间的聊天记录
 https://github.com/yira0ooo0/paragraph-222
 
@@ -43,7 +46,9 @@ https://github.com/yira0ooo0/20140219Sound-recorder
 
 
 rtf文件推荐使用微软系统自带写字板WordPad打开（防乱码）
+
 点击唯一绿色按钮然后点击Download ZIP（打包下载）
+
 
 接受任何，观点，想法，欢迎各种感知，意见，可匿名来联系我。或者提供其他与之有关的信息。
 建议花上几秒钟注册一个ID在Issues!区域公开提问与讨论。
