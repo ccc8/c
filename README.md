@@ -5,7 +5,7 @@
 
 2013年8月29日与娜娜见面我参与到她们的骑士任务开始
 直到9月初关键转折
-文件包括K词，与娜娜和杰尼的第一段聊天记录，fish全部的聊天记录
+文件包括K词，与娜娜和杰尼的第一段聊天记录，fish全部的聊天记录，第一次见面文字整理与录音
 
 https://github.com/yira0ooo0/paragraph-111
 
@@ -24,7 +24,7 @@ https://github.com/yira0ooo0/paragraph-111
 
 https://github.com/yira0ooo0/paragraph-222
 
-和最后一次见面录音
+最后一次饭桌谈话录音
 
 https://github.com/yira0ooo0/20140219Sound-recorder
 
@@ -36,7 +36,7 @@ https://github.com/yira0ooo0/20140219Sound-recorder
 2017年决定公开一切前夕的全部预想。
 通过个人信息通过公司联系到娜娜实际方法。
 使用顾客身份，侧面尝试与她聊天/套话的全部内容。
-炮制的恐怖威胁信与表演聊天内容。
+炮制的恐怖威胁信的威逼利诱与表演聊天内容。
 
 
 
