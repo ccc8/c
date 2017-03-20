@@ -62,38 +62,7 @@ rtf文件推荐使用微软系统自带写字板WordPad打开（防乱码）
 
 
 
-
-
-
-
-
-
 -----
 
 -----
 
-
-
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
-
-3年来我遵守“保密约定”未对任何人说起此事，接第3段里提到2017年初的尝试后，公开一切就成为了最后的必然选项。我清楚，大量琐碎内容使得阅读成本非常高，所以推荐给想彻底弄清楚的好奇kser看，为此付出时间我觉得是极为值得的。此时我没强调自我观点的动机，这也不算揭露或澄清。而是共同探索。--依然
------BEGIN PGP SIGNATURE-----
-Version: Mailvelope v1.7.1
-Comment: https://www.mailvelope.com
-
-wsFcBAEBCAAQBQJYz2M8CRDCG0kSsDlUHgAAYikP/0AcP9C5j3Ql/Cahp2LI
-czVrXWY/vx4zvZazdQImfldekYOwrCz3wExYiZ+1hxiEvphPOXLF/drnvosO
-n0fc1KoaIHc+vlkHkzw6Ai8CbZ7xx3hVravADDEiiTyBoM/wvgG+MgAkyf27
-fLL3bFLEGA9EPl418JLIBIIUMFq0Kf+7ufwNlnfbUtZ/fM8rnc07UyWS5MG+
-DX3O9IHKavhn7tAOsLrIMzxBbT6j79boquNrBJwGq5MvPL8iN+lzm2QWJ5GH
-lz1/8/Wy5pGO4EPpzWYVPTZgMZ2oMIE/BMllfORswgKF89k+Ab9qr2C7V069
-dv93TE1QpwqSNn511OMTQI/12eWPRB4XkVSEBCG/49xWxSpPG7smkCaqC8h8
-bs2+MB9ev5NyA21MwXnPw0E2yautF84H5RtT1FfW1EgDz2ocpAxPmJ4C1Y6q
-ACqUq974Bn+06vxINEitIP2HDTeYCpFSZFLmDUaO8S4J3R/SQ+JoDhe/t73k
-wdedOE/tlJdO/qxM8czMrRSw+L4q/q0EEptJxp03nlnouZxv26a5vSHALhyZ
-1OJ1mRkU75OdEfVtbpSRmfmH3dhLjPKOaWnx+Dx+cljH9MdmFCK0TGUFzqkZ
-CP6VYiVuMqSn4r4l2Wqu9Y4s3NwT1bco/0yLb7gtixJBsHMciDQCurkXtZ5j
-drPK
-=xKAa
------END PGP SIGNATURE-----
