@@ -6,6 +6,7 @@
 2013年8月29日与娜娜见面我参与到她们的骑士任务开始
 直到9月初关键转折
 文件包括K词，与娜娜和杰尼的第一段聊天记录，fish全部的聊天记录
+
 https://github.com/yira0ooo0/paragraph-111
 
 
@@ -15,13 +16,16 @@ https://github.com/yira0ooo0/paragraph-111
 
 
 <b>第2段</b>
-9月开始了3个月的“小黑屋”生涯 2013年12月底返回家中，
-最后一次见面次年2月 
+
+9月开始了3个月的“小黑屋”生涯 2013年12月底返回家中，最后一次见面次年2月 
+
 
 文件包括期间的聊天记录
+
 https://github.com/yira0ooo0/paragraph-222
 
 和最后一次见面录音
+
 https://github.com/yira0ooo0/20140219Sound-recorder
 
 
