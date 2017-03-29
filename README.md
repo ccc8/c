@@ -41,7 +41,7 @@ https://github.com/yira0ooo0/20140219Sound-recorder
 使用顾客身份，侧面尝试与她聊天/套话的全部内容。
 炮制的恐怖威胁信的威逼利诱与表演聊天内容。
 
-20170328 更新
+
 https://github.com/yira0ooo0/paragraph-333
 
 
