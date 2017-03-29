@@ -42,8 +42,10 @@ https://github.com/yira0ooo0/20140219Sound-recorder
 https://github.com/yira0ooo0/paragraph-333
 
 
+
+
 <b>第4段</b> 
-尽量在2个月内
+（尽量在2个月内更新
 
 1总结对于整个事件，
 
