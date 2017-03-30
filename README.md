@@ -52,7 +52,7 @@ https://github.com/yira0ooo0/paragraph-333
 
 1总结对于整个事件，
 
-2。。。
+
 <b>预告</b> 
 
 “支点”“百分比”“可能性”“信任”“评价”
