@@ -74,9 +74,32 @@ rtf文件推荐使用微软系统自带写字板WordPad打开（防乱码）
 
 #建议花上几秒钟注册一个ID在*  [issue](https://github.com/yira0ooo0/qishirenwu2013/issues)区域公开提问与讨论。
 
-抄了一段
+#
+#
+#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###依然教你如何注册：
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/image/1.png)<br>
 #####接着会来到这
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/image/2.png)
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/image/3.png)<br>
-#####然后会收到一封github发的邮件，进入邮箱验证
+
+然后会收到一封github发的邮件，进入邮箱验证
