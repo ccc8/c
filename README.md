@@ -98,7 +98,9 @@ rtf文件推荐使用微软系统自带写字板WordPad打开（防乱码）
 
 ###依然教你注册章鱼猫
 #先点击https://github.com/
-没有email没关系不用注册得到个临时的http://www.yopmail.com/zh/
+
+#没有email，不用注册得的临时email 
+http://www.yopmail.com/zh/
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/image/1.png)<br>
 #####接着会来到这
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/image/2.png)
