@@ -69,12 +69,8 @@ rtf文件推荐使用微软系统自带写字板WordPad打开（防乱码）
 
 接受任何，观点，想法，欢迎各种感知，意见，可匿名来联系我。或者提供其他与之有关的信息。
 
-建议花上几秒钟注册一个ID在Issues!区域公开提问与讨论。
+建议花上几秒钟注册一个ID在*  [issue](https://github.com/yira0ooo0/qishirenwu2013/issues)区域公开提问与讨论。
 
-直接留言（需翻墙）
-https://goo.gl/forms/QTM1ej7y2985G5qX2
+使用谷歌表单*  [直接留言](https://goo.gl/forms/QTM1ej7y2985G5qX2)
 
------
-
------
 
