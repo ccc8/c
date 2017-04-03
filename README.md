@@ -1,7 +1,7 @@
 
 
 
-<b>第1段</b>       *  [直接点击这里，打包下载](https://github.com/yira0ooo0/paragraph-111/archive/master.zip)
+<b>第1段</b>       *  [直接点击这里，打包下载第1段](https://github.com/yira0ooo0/paragraph-111/archive/master.zip)
 
 
 2013年8月29日与娜娜见面我参与到她们的骑士任务开始
