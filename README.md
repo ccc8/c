@@ -7,7 +7,10 @@
 直到9月初关键转折
 文件包括K词，与娜娜和杰尼的第一段聊天记录，fish全部的聊天记录，第一次见面文字整理与录音
 
-https://github.com/yira0ooo0/paragraph-111
+https://github.com/yira0ooo0/paragraph-111    
+
+*  [囧。直接点击直接或右键另存第1段。囧](https://github.com/yira0ooo0/paragraph-111/archive/master.zip)
+
 
 
 对话添加了部分批注，号码和一些真实的名称都打了码，保护了点隐私。
