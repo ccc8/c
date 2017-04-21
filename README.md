@@ -1,14 +1,12 @@
+原页面被举报，这只是临时克隆了一个，原issues讨论区内容之后会打开，，
 
 
-
-<b>第1段</b>       *  [直接点击这里，打包下载第1段](https://github.com/yira0ooo0/paragraph-111/archive/master.zip)
-
-
+<b>第1段</b>       
 2013年8月29日与娜娜见面我参与到她们的骑士任务开始
 直到9月初关键转折
 文件包括K词，与娜娜和杰尼的第一段聊天记录，fish全部的聊天记录，第一次见面文字整理与录音
 
-https://github.com/yira0ooo0/paragraph-111     
+https://github.com/ccc8/paragraph-111
 
 
 对话添加了部分批注，号码和一些真实的名称都打了码，保护了点隐私。
@@ -23,11 +21,11 @@ https://github.com/yira0ooo0/paragraph-111
 
 文件包括期间的聊天记录
 
-https://github.com/yira0ooo0/paragraph-222
+https://github.com/ccc8/paragraph-222
 
 最后一次饭桌谈话录音
 
-https://github.com/yira0ooo0/20140219Sound-recorder
+https://github.com/ccc8/20140219Sound-recorder
 
 
 
@@ -43,7 +41,7 @@ https://github.com/yira0ooo0/20140219Sound-recorder
 炮制的恐怖威胁信的威逼利诱与表演聊天内容。
 
 
-https://github.com/yira0ooo0/paragraph-333
+https://github.com/ccc8/paragraph-333
 
 
 
@@ -73,7 +71,7 @@ rtf文件推荐使用微软系统自带写字板WordPad打开（防乱码）
 使用谷歌表单*  [直接留言](https://goo.gl/forms/QTM1ej7y2985G5qX2)
 
 
-#建议花上几秒钟注册一个ID在*  [issue](https://github.com/yira0ooo0/qishirenwu2013/issues)区域公开提问与讨论。
+#建议花上几秒钟注册一个ID在*  [issue](https://github.com/yira0ooo0/issues)区域公开提问与讨论。
 
 #
 #
